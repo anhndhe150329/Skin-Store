@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/javaweb/SkinStore/src/java/user/userDAO.java</file>
+            <file>file:/D:/javaweb/SkinStore/web/SellInfo.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/SearchControlServlet.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/SignInServlet.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/user/User.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/fu/prj301/project/SkinDAO.java</file>
+            <file>file:/D:/javaweb/SkinStore/web/yourstock.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/web/Header.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/web/SignUp.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/CartShow.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/CartControl.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/CateControl.java</file>
+            <file>file:/D:/javaweb/SkinStore/web/naptien.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/web/result.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/web/WEB-INF/web.xml</file>
+            <file>file:/D:/javaweb/SkinStore/web/Cart.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/entity/History.java</file>
+            <file>file:/D:/javaweb/SkinStore/web/CheckOut.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/UpdateUserServlet.java</file>
+            <file>file:/D:/javaweb/SkinStore/web/SignIn.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/SellControl.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/entity/Bill.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/entity/Skin.java</file>
+            <file>file:/D:/javaweb/SkinStore/web/HomePage.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/web/History.jsp</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/user/SignInFillter.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/HomeControl.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/ShowStock.java</file>
+            <file>file:/D:/javaweb/SkinStore/src/java/servlet/AddUserServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

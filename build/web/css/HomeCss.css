@@ -1,0 +1,68 @@
+
+
+.contains{
+    background: url(../PT/background1.png);
+    border:1px solid black;
+    
+     
+    border-radius: 5px;
+}
+.opt { 
+    margin-top: 3px;
+    margin-left: 90%;
+}
+.content{
+    display: flex;
+}
+.left{
+    width: 70%;
+}
+.right{
+    font-family: 'Quicksand',sans-serif;
+    width: 29%;
+    margin: 5px;
+}
+.carousel-indicators li {
+    border:1px solid black;  
+    width: 80px;
+    height: 10px;
+    background-color: white;
+}
+.carousel-indicators li.active {
+    background: orange;
+}
+.moneycard table {
+    background-color: gold;
+    border-radius: 5px;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.add-money a{
+    border-radius: 3px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    line-height: 65px;
+    background: #fc4;
+    font-size: 34px;
+    font-weight: 600;
+    color: #354745;
+}
+.news {
+
+    border-top: 1px solid #268;
+    padding: 13px 7px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+}
+.news a{
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+}
